@@ -1,0 +1,3 @@
+@CHARSET "ISO-8859-1";
+.done{background-color: green; height: 2em;}
+.notDone{background-color: red; height: 2em;}
